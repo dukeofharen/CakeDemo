@@ -1,0 +1,6 @@
+tools/
+TestResults/
+bin/
+obj/
+*.suo
+releases/
